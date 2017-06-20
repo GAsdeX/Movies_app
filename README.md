@@ -4,12 +4,10 @@ This application created for storing simple information about your favorite movi
 Run this app locally.
 **First** you need to clone this repo at your PC.
 
->git clone https://github.com/GAsdeX/Movies_app/
+>git clone https://github.com/GAsdeX/Movies_app_backend
+>git clone https://github.com/GAsdeX/Movies_app_frontend
 
-This app divides into two cases: backend and frondend. Chack it out at same titled directories. 
-
->/frontend>
->/backend>
+This app divides into two cases: backend and frondend. Chack it out at same titled directories.
 
 Please run mongodb on your machine:
 
